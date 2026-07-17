@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VeriForm Technologies</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      line-height: 1.6;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+    header {
+      background: #0a3d62;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2em;
+    }
+    header p {
+      margin: 5px 0;
+      font-size: 1.1em;
+    }
+    nav {
+      background: #1e3799;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 30px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #0a3d62;
+      margin-bottom: 15px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li::before {
+      content: "✔️ ";
+      color: #1e3799;
+    }
+    footer {
+      background: #0a3d62;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      margin-top: 20px;
+    }
+    footer a {
+      color: #fff;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>VERIFORM TECHNOLOGIES</h1>
+    <p>Solutions That Empower. Technology That Delivers.</p>
+    <p>Delivering Reliable Technology, Procurement & Digital Transformation Solutions</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#expertise">Expertise</a>
+    <a href="#services">Services</a>
+    <a href="#industries">Industries</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About VeriForm Technologies</h2>
+    <p>VeriForm Technologies is a trusted provider of IT infrastructure, enterprise procurement, cloud solutions, cybersecurity, managed services, and digital transformation consulting. We help organizations build secure, scalable, and future-ready technology environments that drive business growth and operational excellence.</p>
+  </section>
+
+  <section id="expertise">
+    <h2>Our Expertise</h2>
+    <ul>
+      <li>IT Infrastructure Solutions</li>
+      <li>Enterprise Technology Procurement</li>
+      <li>Cloud Computing & Microsoft Solutions</li>
+      <li>Cybersecurity Services</li>
+      <li>Networking & Collaboration</li>
+      <li>Software Licensing & Renewals</li>
+      <li>CCTV & Security Surveillance Systems</li>
+      <li>Access Control & Biometric Solutions</li>
+      <li>Managed IT Services</li>
+      <li>Data Backup & Disaster Recovery</li>
+      <li>Digital Transformation Consulting</li>
+    </ul>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Technology Procurement</li>
+      <li>IT Consulting</li>
+      <li>Implementation Services</li>
+      <li>Cloud Solutions</li>
+      <li>Managed Services</li>
+      <li>Cybersecurity Services</li>
+    </ul>
+  </section>
+
+  <section id="industries">
+    <h2>Industries We Serve</h2>
+    <ul>
+      <li>Corporate & Enterprise</li>
+      <li>Education</li>
+      <li>Healthcare</li>
+      <li>Manufacturing</li>
+      <li>Retail & Hospitality</li>
+      <li>Banking & Financial Services</li>
+      <li>Government & Public Sector</li>
+      <li>Logistics & Transportation</li>
+      <li>Residential & Commercial</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Corporate Office:</strong> Bengaluru, Karnataka, India</p>
+    <p>📞 Phone: +91 80954 58550</p>
+    <p>📧 Email: info@vftech.in</p>
+    <p>🌐 Website: <a href="http://www.vftech.in" target="_blank">www.vftech.in</a></p>
+    <p><strong>Business Hours:</strong> Monday – Saturday: 9:00 AM – 6:30 PM | Sunday: Closed</p>
+    <p>Connect With Us: 
+      <a href="#">LinkedIn</a> | 
+      <a href="#">Facebook</a> | 
+      <a href="#">Instagram</a> | 
+      <a href="#">Twitter</a>
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2026 VeriForm Technologies. All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
